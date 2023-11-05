@@ -12,8 +12,9 @@ ContactAPP est une application de gestion de contacts. Elle permet aux utilisate
 ## Installation
 
 1. Clonez le dépôt GitHub en utilisant la commande suivante : ```git clone https://github.com/Z2VvZ2Vv/ContactAPP.git```
-2. Accédez au répertoire du projet : ```cd ContactAPP```
-3. Exécutez l'application en utilisant la commande suivante : ```python main_launcher.py```
+   Ou télécharger le code source dans la release
+3. Accédez au répertoire du projet : ```cd ContactAPP``` (par exemple)
+4. Exécutez l'application en utilisant la commande suivante : ```python main_launcher.py``` (ou sur Linux ```python3 main_launcher.py```)
 
 ## Screenshots
 
