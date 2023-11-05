@@ -18,7 +18,7 @@ ContactAPP est une application de gestion de contacts. Elle permet aux utilisate
 ## Screenshots
 
 ![alt text](https://cdn.discordapp.com/attachments/1161284912419184680/1170821660006428822/image.png?ex=655a6fa4&is=6547faa4&hm=7906b533b62c648480260e5e74e92a33ccef2ce7357dc0161b88ed0c09b02c7e&)
---> Premier démarrage de l'application + demande à l'utilisateur s'il souhaite chiffrer les données
+--> Premier démarrage de l'application + demande à l'utilisateur s'il souhaite chiffrer ses données
 
 ![alt text](https://cdn.discordapp.com/attachments/1161284912419184680/1170821834896318524/image.png?ex=655a6fce&is=6547face&hm=33043dba4cb50e6d9c6c055c7760c855892b5f43e50442d178d21e3c08d8ac49&)
 --> Découverte de la clé
