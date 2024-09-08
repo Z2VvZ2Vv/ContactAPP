@@ -16,7 +16,7 @@ ContactAPP est une application de gestion de contacts. Elle permet aux utilisate
 3. Accédez au répertoire du projet : ```cd ContactAPP``` (par exemple)
 4. Exécutez l'application en utilisant la commande suivante : ```python main_launcher.py``` (ou sur macOS/Linux ```python3 main_launcher.py```)
 
-(!) Selon les configurations, le module ```cryptography```, de base sur python, peut ne pas être déployé. Donc si une erreur apparaît un simple ```pip install cryptography``` sur Windows ou ```pip3 install cryptography``` sur macOS/Linux résoudra l'erreur !
+(!) Selon les configurations, le module ```cryptography```, de base sur python, peut ne pas être déployé. Donc si une erreur apparaît un simple ```pip install cryptography``` ```pip install pyreadline3``` sur Windows ou ```pip3 install cryptography``` sur macOS/Linux résoudra l'erreur !
 
 ## Screenshots
 
